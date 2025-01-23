@@ -48,3 +48,7 @@ CREATE TABLE industry_memberships (
   company_id INTEGER,
   industry_id INTEGER
 );
+
+
+
+
